@@ -1,0 +1,29 @@
+{
+  "name": "component-stats",
+  "version": "0.0.1",
+  "description": "Statistics for a component",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "load-json-file": "^2.0.0",
+    "write-json-file": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postversion": "git push && git push --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neefrankie/component-stats.git"
+  },
+  "engines": {
+    "node": ">=7.7.0"
+  },
+  "author": "weiguo.ni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neefrankie/component-stats/issues"
+  },
+  "homepage": "https://github.com/neefrankie/component-stats#readme"
+}
