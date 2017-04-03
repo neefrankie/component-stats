@@ -1,6 +1,6 @@
 {
   "name": "@ftchinese/component-stats",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Statistics for a component",
   "main": "index.js",
   "dependencies": {
