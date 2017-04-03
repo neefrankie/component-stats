@@ -1,5 +1,5 @@
 {
-  "name": "component-stats",
+  "name": "@ftchinese/component-stats",
   "version": "0.1.0",
   "description": "Statistics for a component",
   "main": "index.js",
